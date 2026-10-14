@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment variables
+.env
+
+# Operating system
+.DS_Store
+
+# MovieLens dataset
+data/
